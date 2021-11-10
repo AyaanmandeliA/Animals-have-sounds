@@ -31,13 +31,13 @@ body
 .copyright-footer
 {
     position: fixed;
-    color: grey;
+    color: crimson;
     bottom: 0px;
     width: 100%;
     font-size: 18px;
     background-color: black;
     line-height: 2;
     text-align: center;
-    text-shadow: 5px 5px 5px lightgray;
+    text-shadow: 5px 5px 5px red;
 
 }
